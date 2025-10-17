@@ -2,10 +2,9 @@
 Curso -> https://techcamps.hbtn.io/
 
 API utilizadas: 
+CEP/Rua -> https://viacep.com.br/ws/13086902/json/
 
-https://viacep.com.br/ws/13086902/json/
-https://viacep.com.br/ws/13086902/xml/
-
-
-https://servicodados.ibge.gov.br/api/docs/
-https://servicodados.ibge.gov.br/api/v1/localidades/estados/:UF/distritos
+APIs IBGE -> https://servicodados.ibge.gov.br/api/docs/
+  Cidades -> https://servicodados.ibge.gov.br/api/v1/localidades/estados/:UF/distritos
+  Estados -> https://servicodados.ibge.gov.br/api/v1/localidades/estados 
+  Paises -> https://servicodados.ibge.gov.br/api/v1/localidades/paises
